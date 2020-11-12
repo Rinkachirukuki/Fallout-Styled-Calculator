@@ -1,0 +1,8 @@
+D:\ShitStuff\Normal_Programs\kursovaya_1k\CalCul\Debug\CalCul.vcxprojAssemblyReference.cache
+D:\ShitStuff\Normal_Programs\kursovaya_1k\CalCul\Debug\CalCul.clc.resources
+D:\ShitStuff\Normal_Programs\kursovaya_1k\CalCul\Debug\CalCul.InfoBox.resources
+D:\ShitStuff\Normal_Programs\kursovaya_1k\CalCul\Debug\CalCul.vcxproj.GenerateResource.cache
+D:\ShitStuff\Normal_Programs\kursovaya_1k\Fallout-Styled Calculator\CalCul\Debug\CalCul.vcxprojAssemblyReference.cache
+D:\ShitStuff\Normal_Programs\kursovaya_1k\Fallout-Styled Calculator\CalCul\Debug\CalCul.clc.resources
+D:\ShitStuff\Normal_Programs\kursovaya_1k\Fallout-Styled Calculator\CalCul\Debug\CalCul.InfoBox.resources
+D:\ShitStuff\Normal_Programs\kursovaya_1k\Fallout-Styled Calculator\CalCul\Debug\CalCul.vcxproj.GenerateResource.cache

@@ -1,0 +1,18 @@
+﻿  clc.cpp
+D:\ShitStuff\Normal_Programs\kursovaya_1k\Fallout-Styled Calculator\CalCul\clc.h(1379,70): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\ShitStuff\Normal_Programs\kursovaya_1k\Fallout-Styled Calculator\CalCul\clc.h(1383,30): warning C4018: '<': signed/unsigned mismatch
+D:\ShitStuff\Normal_Programs\kursovaya_1k\Fallout-Styled Calculator\CalCul\clc.h(1386,13): warning C4018: '<': signed/unsigned mismatch
+D:\ShitStuff\Normal_Programs\kursovaya_1k\Fallout-Styled Calculator\CalCul\clc.h(1408,17): warning C4018: '>=': signed/unsigned mismatch
+D:\ShitStuff\Normal_Programs\kursovaya_1k\Fallout-Styled Calculator\CalCul\clc.h(1412,17): warning C4018: '>': signed/unsigned mismatch
+D:\ShitStuff\Normal_Programs\kursovaya_1k\Fallout-Styled Calculator\CalCul\clc.h(1417,12): warning C4018: '<': signed/unsigned mismatch
+D:\ShitStuff\Normal_Programs\kursovaya_1k\Fallout-Styled Calculator\CalCul\clc.h(1422,26): warning C4018: '<': signed/unsigned mismatch
+D:\ShitStuff\Normal_Programs\kursovaya_1k\Fallout-Styled Calculator\CalCul\clc.h(1425,25): warning C4018: '<': signed/unsigned mismatch
+D:\ShitStuff\Normal_Programs\kursovaya_1k\Fallout-Styled Calculator\CalCul\clc.h(1431,17): warning C4018: '<': signed/unsigned mismatch
+D:\ShitStuff\Normal_Programs\kursovaya_1k\Fallout-Styled Calculator\CalCul\clc.h(1449,17): warning C4018: '<': signed/unsigned mismatch
+D:\ShitStuff\Normal_Programs\kursovaya_1k\Fallout-Styled Calculator\CalCul\clc.h(1475,8): warning C4244: '=': conversion from 'long double' to '__int64', possible loss of data
+D:\ShitStuff\Normal_Programs\kursovaya_1k\Fallout-Styled Calculator\CalCul\clc.h(1478,9): warning C4244: '=': conversion from '__int64' to 'long double', possible loss of data
+D:\ShitStuff\Normal_Programs\kursovaya_1k\Fallout-Styled Calculator\CalCul\clc.h(1516,9): warning C4244: '=': conversion from 'long double' to '__int64', possible loss of data
+D:\ShitStuff\Normal_Programs\kursovaya_1k\Fallout-Styled Calculator\CalCul\clc.cpp(6,32): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+D:\ShitStuff\Normal_Programs\kursovaya_1k\Fallout-Styled Calculator\CalCul\clc.h(1865): warning C4700: uninitialized local variable 'i' used
+  clc.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  CalCul.vcxproj -> D:\ShitStuff\Normal_Programs\kursovaya_1k\Fallout-Styled Calculator\Debug\CalCul.exe
